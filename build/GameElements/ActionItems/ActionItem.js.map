@@ -1,0 +1,1 @@
+{"version":3,"file":"ActionItem.js","sourceRoot":"","sources":["../../../src/GameElements/ActionItems/ActionItem.ts"],"names":[],"mappings":"AACA,OAAO,QAAQ,MAAM,gBAAgB,CAAC;AAEtC,MAAM,CAAC,OAAO,OAAO,UAAW,SAAQ,QAAQ;IAO9C,YAAmB,MAAc,EAAE,MAAc;QAC/C,KAAK,EAAE,CAAC;IACV,CAAC;IAQM,MAAM,CAAC,OAAe,EAAE,KAAa;QAC1C,IAAI,CAAC,IAAI,IAAI,OAAO,GAAG,KAAK,CAAC;IAC/B,CAAC;CACF"}
