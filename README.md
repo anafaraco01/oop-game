@@ -21,6 +21,6 @@ The idea of this game derives from "Subway surfers". In this game, you must run 
 The game makes use of the D-Pad of the keyboard to control the player. Use the UP arrow key to jump, use the DOWN arrow key to slide, and then use the LEFT/RIGHT arrow keys to move left and right on the screen. To answer a question, you need to use your mouse.
 
 ## Demonstration
-You can play a [demonstration here](https://hz-oop.github.io/team14/)
+You can play a [demonstration here](https://anafaraco01.github.io/oop-game/)
 
 For more information access our [wiki](https://github.com/anafaraco01/oop-game/wiki) page.
