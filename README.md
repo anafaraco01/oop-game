@@ -23,4 +23,4 @@ The game makes use of the D-Pad of the keyboard to control the player. Use the U
 ## Demonstration
 You can play a [demonstration here](https://hz-oop.github.io/team14/)
 
-For more information access our [wiki](https://github.com/HZ-OOP/team14/wiki) page.
+For more information access our [wiki](https://github.com/anafaraco01/oop-game/wiki) page.
